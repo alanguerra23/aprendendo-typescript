@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "devDependencies": {
+    "@types/express": "4.17.2",
     "typescript": "3.8.2"
+  },
+  "dependencies": {
+    "express": "4.17.1"
   }
 }
